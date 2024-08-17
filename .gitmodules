@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/alareo/test
+[submodule "mock"]
+	path = mock
+	url = https://github.com/alareo/mock
